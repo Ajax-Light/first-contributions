@@ -53,3 +53,5 @@
 | 🇿🇦 | [Zulu (South Africa)](README.zul.md) |
 | 🇰🇪 | [Kiswahili (Kenya)](README.kws.md) |
 | 🇳🇬 | [Igbo (Nigeria)](README.igb.md) |
+| LV | [Latvian](README.lv.md) |
+| CR | [Latvian](README.sr.md) |
